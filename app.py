@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pickle
 import pandas as pd
@@ -71,7 +70,7 @@ if st.button("Recommend"):
     with col5:
         st.text(names[4])
         st.image(posters[4])
-=======
+
 import streamlit as st
 import pickle
 import pandas as pd
